@@ -6,7 +6,7 @@ function CheckoutProduct() {
     <div className="checkoutPorduct">
       <img src='https://res.cloudinary.com/nell1818/image/upload/v1651252541/eshop/images_okjmco.jpg' alt='' className='checkoutProduct_image' />
 
-      <div className="product__info">
+      <div className="checkoutProduct__info">
         <p className="checkoutProduct__title">3 yrs old
         </p>
         <p className="checkoutProduct__price">
